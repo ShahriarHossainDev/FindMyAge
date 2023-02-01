@@ -27,11 +27,9 @@ This application's GitHub repository should contain a README.md file explaining 
 * App Icons & Launch Screen
 
 ## Images
-![Image](https://github.com/ShahriarHossainDev/Devote/blob/main/Devote/Images/1.png)
-![Image](https://github.com/ShahriarHossainDev/Devote/blob/main/Devote/Images/2.png)
-![Image](https://github.com/ShahriarHossainDev/Devote/blob/main/Devote/Images/3.png)
-![Image](https://github.com/ShahriarHossainDev/Devote/blob/main/Devote/Images/4.png)
-![Image](https://github.com/ShahriarHossainDev/Devote/blob/main/Devote/Images/5.png)
+![Image](https://github.com/ShahriarHossainDev/FindMyAge/blob/main/Image/1.png)
+![Image](https://github.com/ShahriarHossainDev/FindMyAge/blob/main/Image/2.png)
+![Image](https://github.com/ShahriarHossainDev/FindMyAge/blob/main/Image/3.png)
 
 ## Commit Early and Often
 
