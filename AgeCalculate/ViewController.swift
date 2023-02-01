@@ -39,6 +39,14 @@ class ViewController: UIViewController {
         AgeView.layer.cornerRadius = 8
         ExtraView.layer.cornerRadius = 8
         countOutlet.layer.cornerRadius = 8
+        
+        ExtraYearLabel.text = ""
+        ExtraMonthsLabel.text = ""
+        ExtraWeeksLabel.text = ""
+        ExtraDayLabel.text = ""
+        ExtraHoursLabel.text = ""
+        ExtraMinutesLabel.text = ""
+        ExtraSecondLabel.text = ""
     }
     
     func getAgeFromDOF(date: String) -> (Int,Int,Int) {
