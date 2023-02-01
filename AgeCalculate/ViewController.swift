@@ -9,14 +9,17 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
     @IBOutlet weak var EnterView: UIView!
     @IBOutlet weak var AgeView: UIView!
     @IBOutlet weak var ExtraView: UIView!
     @IBOutlet weak var getAge: UITextField!
+    
     @IBOutlet weak var countOutlet: UIButton!
     @IBOutlet weak var AgeYearLabel: UILabel!
     @IBOutlet weak var AgeMonthsLabel: UILabel!
     @IBOutlet weak var AgeDayLabel: UILabel!
+    
     @IBOutlet weak var ExtraYearLabel: UILabel!
     @IBOutlet weak var ExtraMonthsLabel: UILabel!
     @IBOutlet weak var ExtraWeeksLabel: UILabel!
@@ -35,6 +38,7 @@ class ViewController: UIViewController {
     }
     
     func ageEditView(){
+        
         EnterView.layer.cornerRadius = 8
         AgeView.layer.cornerRadius = 8
         ExtraView.layer.cornerRadius = 8

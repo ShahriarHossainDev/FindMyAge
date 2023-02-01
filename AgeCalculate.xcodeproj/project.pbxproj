@@ -15,6 +15,10 @@
 		18FDC99D24272A6800243614 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18FDC99B24272A6800243614 /* LaunchScreen.storyboard */; };
 		18FDC9A824272A6900243614 /* AgeCalculateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FDC9A724272A6900243614 /* AgeCalculateTests.swift */; };
 		18FDC9B324272A6900243614 /* AgeCalculateUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18FDC9B224272A6900243614 /* AgeCalculateUITests.swift */; };
+		FA338F23298AD51500A1584A /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = FA338F20298AD51500A1584A /* 1.png */; };
+		FA338F24298AD51500A1584A /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = FA338F21298AD51500A1584A /* 2.png */; };
+		FA338F25298AD51500A1584A /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = FA338F22298AD51500A1584A /* 3.png */; };
+		FA338F27298AD53E00A1584A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA338F26298AD53E00A1584A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		18FDC9AE24272A6900243614 /* AgeCalculateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AgeCalculateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18FDC9B224272A6900243614 /* AgeCalculateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgeCalculateUITests.swift; sourceTree = "<group>"; };
 		18FDC9B424272A6900243614 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA338F20298AD51500A1584A /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		FA338F21298AD51500A1584A /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		FA338F22298AD51500A1584A /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		FA338F26298AD53E00A1584A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +87,8 @@
 		18FDC98424272A5F00243614 = {
 			isa = PBXGroup;
 			children = (
+				FA338F26298AD53E00A1584A /* README.md */,
+				FA338F1F298AD4EE00A1584A /* Image */,
 				18FDC98F24272A5F00243614 /* AgeCalculate */,
 				18FDC9A624272A6900243614 /* AgeCalculateTests */,
 				18FDC9B124272A6900243614 /* AgeCalculateUITests */,
@@ -126,6 +136,16 @@
 				18FDC9B424272A6900243614 /* Info.plist */,
 			);
 			path = AgeCalculateUITests;
+			sourceTree = "<group>";
+		};
+		FA338F1F298AD4EE00A1584A /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				FA338F20298AD51500A1584A /* 1.png */,
+				FA338F21298AD51500A1584A /* 2.png */,
+				FA338F22298AD51500A1584A /* 3.png */,
+			);
+			path = Image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,6 +253,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				18FDC99D24272A6800243614 /* LaunchScreen.storyboard in Resources */,
+				FA338F23298AD51500A1584A /* 1.png in Resources */,
+				FA338F24298AD51500A1584A /* 2.png in Resources */,
+				FA338F27298AD53E00A1584A /* README.md in Resources */,
+				FA338F25298AD51500A1584A /* 3.png in Resources */,
 				18FDC99A24272A6800243614 /* Assets.xcassets in Resources */,
 				18FDC99824272A5F00243614 /* Main.storyboard in Resources */,
 			);
